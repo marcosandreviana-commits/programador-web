@@ -1,0 +1,40 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    justify-content: center;
+    background-color: rgb(11, 243, 220);
+    padding: 5vh;
+    /* Alterado de cqh para vh para melhor compatibilidade */
+    text-align: center;
+}
+
+main {
+    /* background-color: rgb(248, 130, 56); */
+    flex-grow: 1;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(225, 65, 12);
+    color: rgb(129, 8, 242);
+    padding: 15px;
+    margin-top: auto;
+}
+
+.modo-escuro {
+    background-color: rgb(16, 12, 12);
+
+
+}
+
+.botao-clicado {
+    background-color: rgb(255, 242, 0);
+    border-color: black;
+
+}

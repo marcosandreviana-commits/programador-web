@@ -1,0 +1,21 @@
+body {
+    background-color: bisque;
+}
+
+header {
+
+    background-color: darkgoldenrod;
+    display: 300px;
+    border: 10px auto;
+
+}
+main {
+
+    position: absolute;
+    border: 5px;
+    background-color: chocolate;
+}
+footer {
+
+    background-color: darkolivegreen;
+}

@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    height: auto;
+    width: auto;
+    color: rgb(3, 27, 19);
+    background-color: rgb(198, 239, 183);
+    margin: auto;
+    
+.header{
+    display: flex;
+    width: auto;
+
+}
+}

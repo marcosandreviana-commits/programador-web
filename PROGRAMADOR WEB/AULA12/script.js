@@ -1,0 +1,11 @@
+// let nome = prompt("Digite o seu nome:");
+// console.log("OIEEEEEEEEEEÊ");
+// console.log(nome);
+// console.log("Olá mundo!");
+// console.log("Este comando printa o que está dentro dos parenteses.");
+// prompt("Digite o seu nome:");
+// let variavelstring = "Sou uma string";
+// let variavelNumber = 10;
+// let variavelBoolean = true;
+let anoNascimento = prompt("qual ano você nasceu?");
+console.log("Idade é: "+(2026 - anoNascimento));
